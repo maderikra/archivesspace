@@ -480,7 +480,7 @@ appropriate and specify the `encryption` option:
 
 # Plug-ins and local customizations
 
-[ Plug-ins and locat customizations readme](https://github.com/archivesspace/archivesspace/blob/master/plugins/PLUGINS_README.md)
+[ Plug-ins and locat customizations readme edit](https://github.com/archivesspace/archivesspace/blob/master/plugins/PLUGINS_README.md)
 
 
 # Running ArchivesSpace with an external Solr instance
